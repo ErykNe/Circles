@@ -35,7 +35,7 @@ namespace Circles
                 Circle circle = new Circle();
                 circle.x = randomVariable.Next(10, 730);
                 circle.y = randomVariable.Next(10, 730);
-                circle.radius = Convert.ToInt32(randomVariable.Next(4, 60));
+                circle.radius = Convert.ToInt32(randomVariable.Next(3, 60));
                 bool isCircleLegal = true;
 
                 foreach (Circle existingCircle in circles)
@@ -43,12 +43,12 @@ namespace Circles
                     if (outsideButton.Checked && !outside(circle, existingCircle))
                     {
                         isCircleLegal = false;
-                        break; // Exit the loop if the circle is not legal
+                        break;
                     }
                     if (insideButton.Checked && !inside(circle, existingCircle) && !outside(circle, existingCircle))
                     {
                         isCircleLegal = false;
-                        break; // Exit the loop if the circle is not legal
+                        break;
                     }
                 }
 
