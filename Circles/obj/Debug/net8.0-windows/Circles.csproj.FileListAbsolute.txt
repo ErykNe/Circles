@@ -1,0 +1,17 @@
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\bin\Debug\net8.0-windows\Circles.exe
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\bin\Debug\net8.0-windows\Circles.deps.json
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\bin\Debug\net8.0-windows\Circles.runtimeconfig.json
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\bin\Debug\net8.0-windows\Circles.dll
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\bin\Debug\net8.0-windows\Circles.pdb
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.Form1.resources
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.Properties.Resources.resources
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.csproj.GenerateResource.cache
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.AssemblyInfoInputs.cache
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.AssemblyInfo.cs
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.csproj.CoreCompileInputs.cache
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.dll
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\refint\Circles.dll
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.pdb
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\Circles.genruntimeconfig.cache
+C:\Users\Eryk Nejfert\source\repos\Circles\Circles\obj\Debug\net8.0-windows\ref\Circles.dll
